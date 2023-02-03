@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vineyy17
 - 👀 I’m interested in fullstack development
-- 🌱 I’m currently learning python
+- 🌱 A python developer learning JavaScript
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me officialkb17@gmail.com
 
