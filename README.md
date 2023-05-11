@@ -1,4 +1,4 @@
-- Learning how the web works
+- Learning how the web works.
 
 <!---
 vineyy17/vineyy17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
