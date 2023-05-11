@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Divine
-- 👀 I’m interested in frontend development
-- 💞️ I’m looking to collaborate on interesting projects
-- 📫 How to reach me officialkb17@gmail.com
+- Learning how the web works
 
 <!---
 vineyy17/vineyy17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
