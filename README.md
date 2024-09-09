@@ -1,6 +1,5 @@
-- Software developer.
+```
+Hey there 👋, I'm Divine Charles. I enjoy writing software. I primarily write JS/TS, solidity and golang.
+```
 
-<!---
-vineyy17/vineyy17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
